@@ -1,0 +1,9 @@
+#ifndef MY_TYPES_H
+#define MY_TYPES_H
+
+#define BYTES 1024;
+#define KILOBYTES 1024*1024;
+#define MEGABYTES 1024*1024*1024;
+#define GIGABYTES 1024*1024*1024*1024;
+
+#endif
